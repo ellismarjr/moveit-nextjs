@@ -21,6 +21,7 @@
 This project was developed in the studies purpose with the following technologies:
 
 - [NextJS](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
 - [js-cookie](https://www.npmjs.com/package/js-cookie)
 - [ContextAPI](https://pt-br.reactjs.org/docs/context.html)
 
