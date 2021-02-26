@@ -1,9 +1,10 @@
-<h1 style="display: flex; align-items: center; justify-content: center; flex-direction: column;" display="flex" flex-direction="column">
+<h1 style="display: flex; align-items: center; justify-content: center; flex-direction: column;"  flex-direction="column">
   Move.it
-  <a href="https://moveit-amber.vercel.app/"><h3>Link do App</h3></a>
 </h1>
 
 ## :computer: Web preview
+
+[Link do App](https://moveit-amber.vercel.app/)
 
 <p align="center">
   <img height="400" src="https://github.com/ellismarjr/moveit-nextjs/blob/main/preview/preview.gif">
